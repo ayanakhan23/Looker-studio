@@ -63,7 +63,3 @@ Author - Ayana Khan
 
 
 Data Analytics | Looker Studio Projects
-
-Last updated date and Android version compatibility
-
-Sample categories analyzed include ART_AND_DESIGN, with apps ranging from small creative tools to large, high-install applications.
