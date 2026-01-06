@@ -18,26 +18,26 @@ Link: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 Dataset Highlights -
 The dataset contains information such as:
-App name and category
-User ratings and number of reviews
-App size and number of installs
-Free vs Paid apps and pricing
+App name and category ,
+User ratings and number of reviews ,
+App size and number of installs ,
+Free vs Paid apps and pricing ,
 Content rating and genres
 
 Data Preparation (Performed Before Visualization) -
 Although the dashboard was built in Looker Studio, the following preprocessing logic was applied:
-Handling missing values in Rating and Size
-Converting Installs and Price into numerical formats
-Removing duplicate app records
-Standardizing category and genre names
+Handling missing values in Rating and Size ,
+Converting Installs and Price into numerical formats ,
+Removing duplicate app records ,
+Standardizing category and genre names ,
 Formatting Last Updated as a date field
 
 Key Metrics Developed -
-Average App Rating
-Total Installs by Category
-Number of Reviews
-Free vs Paid App Distribution
-Average App Size by Category
+Average App Rating ,
+Total Installs by Category ,
+Number of Reviews ,
+Free vs Paid App Distribution ,
+Average App Size by Category ,
 Rating Distribution across Content Ratings
 
 Dashboard & Analysis (Looker Studio)
@@ -45,19 +45,19 @@ Dashboard & Analysis (Looker Studio)
 The  dashboard answers Basic, Medium, and Advanced business questions, including:
 Key Insights Generated -
 High-rated apps are not always the most installed, indicating the importance of visibility and marketing
-Free apps dominate the Play Store and receive significantly higher review counts
-Certain categories and genres consistently show higher average ratings
-Extremely large app sizes can negatively impact installs
-Paid apps tend to have fewer reviews, suggesting a smaller but more targeted user base
+Free apps dominate the Play Store and receive significantly higher review counts ,
+Certain categories and genres consistently show higher average ratings ,
+Extremely large app sizes can negatively impact installs ,
+Paid apps tend to have fewer reviews, suggesting a smaller but more targeted user base ,
 
 Tools Used :-
-Looker Studio – Dashboard creation & visualization
+Looker Studio – Dashboard creation & visualization ,
 Google Play Store Dataset – Data source
 
 Business Impact -
-Helps product teams design apps aligned with user preferences
-Supports marketing teams in targeting high-performing categories
-Guides pricing and feature strategies for future app development
+Helps product teams design apps aligned with user preferences ,
+Supports marketing teams in targeting high-performing categories ,
+Guides pricing and feature strategies for future app development 
 
 Author - Ayana Khan
 
